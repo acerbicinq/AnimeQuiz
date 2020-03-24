@@ -1,0 +1,34 @@
+[
+  {
+    "question": "What do you think about romance?",
+    "choice1": "Choice Words",
+    "choice2": "Choice Words",
+    "choice3": "Choice Words",
+    "choice4": "Choice Words",
+    "answer": 1
+  },
+  {
+    "question": "How about action?",
+    "choice1": "Do it!",
+    "choice2": "Do it!",
+    "choice3": "Do it!",
+    "choice4": "Do it!",
+    "answer": 4
+  },
+  {
+    "question": "What about friendship, or something heartfelt?",
+    "choice1": "Love platonic friendships.",
+    "choice2": "Love platonic friendships.",
+    "choice3": "Love platonic friendships.",
+    "choice4": "Love platonic friendships.",
+    "answer": 2
+  },
+  {
+    "question": "Do you love heroes, or regular people?",
+    "choice1": "Heroes are regular people, too!",
+    "choice2": "Heroes are regular people, too!",
+    "choice3": "Heroes are regular people, too!",
+    "choice4": "Heroes are regular people, too!",
+    "answer": 3
+  }
+]
