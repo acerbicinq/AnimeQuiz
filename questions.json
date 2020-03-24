@@ -4,31 +4,69 @@
     "choice1": "Choice Words",
     "choice2": "Choice Words",
     "choice3": "Choice Words",
-    "choice4": "Choice Words",
-    "answer": 1
+    "choice4": "Choice Words"
   },
   {
     "question": "How about action?",
     "choice1": "Do it!",
     "choice2": "Do it!",
     "choice3": "Do it!",
-    "choice4": "Do it!",
-    "answer": 4
+    "choice4": "Do it!"
   },
   {
     "question": "What about friendship, or something heartfelt?",
     "choice1": "Love platonic friendships.",
     "choice2": "Love platonic friendships.",
     "choice3": "Love platonic friendships.",
-    "choice4": "Love platonic friendships.",
-    "answer": 2
+    "choice4": "Love platonic friendships."
   },
   {
     "question": "Do you love heroes, or regular people?",
     "choice1": "Heroes are regular people, too!",
     "choice2": "Heroes are regular people, too!",
     "choice3": "Heroes are regular people, too!",
-    "choice4": "Heroes are regular people, too!",
-    "answer": 3
+    "choice4": "Heroes are regular people, too!"
+  },
+  {
+    "question": "I'm question 5!",
+    "choice1": "Whoa, me too!",
+    "choice2": "Whoa, me too!",
+    "choice3": "Whoa, me too!",
+    "choice4": "Whoa, me too!"
+  },
+  {
+    "question": "I'm question 6!",
+    "choice1": "Nice to meet you.",
+    "choice2": "Nice to meet you.",
+    "choice3": "Nice to meet you.",
+    "choice4": "Nice to meet you."
+  },
+  {
+    "question": "Ay yo, this is #7.",
+    "choice1": "Whaddup?",
+    "choice2": "Whaddup?",
+    "choice3": "Whaddup?",
+    "choice4": "Whaddup?"
+  },
+  {
+    "question": "Did you know I'm #8?",
+    "choice1": "Knew way ahead of you, bro.",
+    "choice2": "Knew way ahead of you, bro.",
+    "choice3": "Knew way ahead of you, bro.",
+    "choice4": "Knew way ahead of you, bro."
+  },
+  {
+    "question": "#9 comin thru for a sec.",
+    "choice1": "You got this!",
+    "choice2": "You got this!",
+    "choice3": "You got this!",
+    "choice4": "You got this!"
+  },
+  {
+    "question": "I'm the final answer, but you can see me anytime.",
+    "choice1": "Yay final answer!",
+    "choice2": "Yay final answer!",
+    "choice3": "Yay final answer!",
+    "choice4": "Yay final answer!"
   }
 ]

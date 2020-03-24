@@ -109,9 +109,20 @@ form {
 }
 
 input {
+  margin-top: 3rem;
   margin-bottom: 1rem;
   width: 20rem;
   padding: 1.5rem;
   font-size: 1.8rem;
 
+}
+
+/* Images */
+img {
+  border: 0.1rem solid seagreen;
+  width: 80%;
+  margin-bottom: 2.5rem;
+}
+p {
+  font-size: 1.7rem;
 }
