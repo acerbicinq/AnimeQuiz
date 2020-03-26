@@ -18,7 +18,7 @@ h1, h2, h3, h4 {
 
 h1 {
 font-size: 5.4rem;
-color: seagreen;
+color: #285756;
 margin-bottom: 5rem;
 }
 
@@ -81,16 +81,16 @@ h4 {
   padding: 1rem 0;
   width: 20rem;
   text-align: center;
-  border: 0.1rem solid #56a5eb;
+  border: 0.1rem solid #408c89;
   margin-bottom: 1rem;
   text-decoration: none;
-  color: #56a5eb;
+  color: #408c89;
   background-color: white;
 }
 
 .btn:hover {
   cursor: pointer;
-  box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
+  box-shadow: 0 0 1.2rem 0 rgba(130, 198, 196, 0.5);
   transform: translateY(-0.1rem);
   transition: transform 150ms;
 }
@@ -120,11 +120,12 @@ input {
 
 /* Images */
 img {
-  border: 0.1rem solid seagreen;
+  border: 0.3rem solid #285756;
   width: 80%;
   margin-bottom: 2.5rem;
 }
+
 p {
   font-size: 1.7rem;
-  
+
 }

@@ -9,14 +9,14 @@
 
 .choice-container:hover {
   cursor: pointer;
-  box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
+  box-shadow: 0 0 1.2rem 0 rgba(130, 198, 196, 0.5);
   transform: translateY(-0.1rem);
   transition: transform 150ms;
 }
 
 .choice-prefix {
   padding: 1.5rem 2.5rem;
-  background-color: #56a5eb;
+  background-color: #82C6C4;
   color: white;
 }
 
@@ -25,21 +25,10 @@
   width: 100%;
 }
 
-.correct {
-  background-color: green;
-}
-
-.incorrect {
-  background-color: red;
-}
-
 /* HUD (Heads Up Display) */
 #hud {
   display: flex;
   justify-content: space-between;
-}
-.hud-item {
-
 }
 
 .hud-prefix {
@@ -55,7 +44,7 @@ text-align: center;
 #loader {
   border: 1.6rem solid white;
   border-radius: 50%;
-  border-top: 1.6rem solid lightgray;
+  border-top: 1.6rem solid #82C6C4;
   width: 12rem;
   height: 12rem;
   animation: spin 2s linear infinite;
