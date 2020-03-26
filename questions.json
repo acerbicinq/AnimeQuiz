@@ -1,72 +1,72 @@
 [
   {
-    "question": "What do you think about romance?",
-    "choice1": "Choice Words",
-    "choice2": "Choice Words",
-    "choice3": "Choice Words",
-    "choice4": "Choice Words"
+    "question": "What kind of music are you in the mood for?",
+    "choice1": "Epic music with epicness.",
+    "choice2": "Serious & thoughtful music.",
+    "choice3": "Engaging music that takes you on an emotional adventure.",
+    "choice4": "Calm, subtle, and beautiful music."
   },
   {
-    "question": "How about action?",
-    "choice1": "Do it!",
-    "choice2": "Do it!",
-    "choice3": "Do it!",
-    "choice4": "Do it!"
+    "question": "You love it when a story focuses on...",
+    "choice1": "The emotional backstories of each character.",
+    "choice2": "What each character is thinking and planning.",
+    "choice3": "The journey that the characters are taking.",
+    "choice4": "How characters feel in the present moment."
   },
   {
-    "question": "What about friendship, or something heartfelt?",
-    "choice1": "Love platonic friendships.",
-    "choice2": "Love platonic friendships.",
-    "choice3": "Love platonic friendships.",
-    "choice4": "Love platonic friendships."
+    "question": "Do you like binging shows?",
+    "choice1": "Not really. I try to take things one season at a time.",
+    "choice2": "If it's short enough, I'll binge a show over a weekend.",
+    "choice3": "Yea, I love watching a great story! Why stop?",
+    "choice4": "Not really. Movie length is best for me."
   },
   {
-    "question": "Do you love heroes, or regular people?",
-    "choice1": "Heroes are regular people, too!",
-    "choice2": "Heroes are regular people, too!",
-    "choice3": "Heroes are regular people, too!",
-    "choice4": "Heroes are regular people, too!"
+    "question": "What emotions do you want to experience right now?",
+    "choice1": "Terror and suspense.",
+    "choice2": "Make me question everything, please.",
+    "choice3": "A balance between lighthearted and serious.",
+    "choice4": "A sense of wonder."
   },
   {
-    "question": "I'm question 5!",
-    "choice1": "Whoa, me too!",
-    "choice2": "Whoa, me too!",
-    "choice3": "Whoa, me too!",
-    "choice4": "Whoa, me too!"
+    "question": "Who will you root for this time?",
+    "choice1": "Regular people against a terrible evil.",
+    "choice2": "The villain! Is that ok?",
+    "choice3": "The chosen one. Bring on the prophecy!",
+    "choice4": "A regular person in a new, fantastic place."
   },
   {
-    "question": "I'm question 6!",
-    "choice1": "Nice to meet you.",
-    "choice2": "Nice to meet you.",
-    "choice3": "Nice to meet you.",
-    "choice4": "Nice to meet you."
+    "question": "You'd like to see more _____ in shows.",
+    "choice1": "risk",
+    "choice2": "philosophy",
+    "choice3": "platonic friendship",
+    "choice4": "kindness"
   },
   {
-    "question": "Ay yo, this is #7.",
-    "choice1": "Whaddup?",
-    "choice2": "Whaddup?",
-    "choice3": "Whaddup?",
-    "choice4": "Whaddup?"
+    "question": "How attached do you want to get to the characters?",
+    "choice1": "Make character death hurt.",
+    "choice2": "As long as the main characters are interesting, the others don't matter.",
+    "choice3": "I wanna fall in love with all of the characters.",
+    "choice4": "As long as no one dies, I'm good. No one's gonna die right?"
   },
   {
-    "question": "Did you know I'm #8?",
-    "choice1": "Knew way ahead of you, bro.",
-    "choice2": "Knew way ahead of you, bro.",
-    "choice3": "Knew way ahead of you, bro.",
-    "choice4": "Knew way ahead of you, bro."
+    "question": "Do you want action in the story?",
+    "choice1": "Yes! Bring on the blood, blades, and glory!",
+    "choice2": "Only if brains are the weapons.",
+    "choice3": "Yes! great fight choreography is essential.",
+    "choice4": "No thanks. No fights, please."
   },
   {
-    "question": "#9 comin thru for a sec.",
-    "choice1": "You got this!",
-    "choice2": "You got this!",
-    "choice3": "You got this!",
-    "choice4": "You got this!"
+    "question": "What do you think about heros?",
+    "choice1": "I like that heroes still fight when the odds are tough.",
+    "choice2": "Heroes are overrated.",
+    "choice3": "I have a soft spot for a great, charismatic hero.",
+    "choice4": "They're not necessary for a great story."
   },
   {
-    "question": "I'm the final answer, but you can see me anytime.",
-    "choice1": "Yay final answer!",
-    "choice2": "Yay final answer!",
-    "choice3": "Yay final answer!",
-    "choice4": "Yay final answer!"
+    "question": "How much humor do you prefer in a show?",
+    "choice1": "It's not really necessary for me to enjoy a show.",
+    "choice2": "It's great to have some funny moments.",
+    "choice3": "I want to laugh until my eyes water!",
+    "choice4": "I'd like to have a nice balance between humor and serious moments."
   }
 ]

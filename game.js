@@ -68,19 +68,15 @@ choices.forEach(choice => {
   switch (selectedAnswer) {
     case '1':
     incrementScore(ADD_POINTS);
-    console.log('I\'m #1!');
       break;
       case '2':
       incrementScore(ADD_POINTS * 2);
-      console.log('I\'m #2!');
         break;
         case '3':
         incrementScore(ADD_POINTS * 3);
-        console.log('I\'m #3!');
           break;
           case '4':
           incrementScore(ADD_POINTS * 4);
-          console.log('I\'m #4!');
             break;
     default:
     console.log('Sorry, you broke something.');
@@ -93,5 +89,4 @@ choices.forEach(choice => {
 
 incrementScore = num => {
   score +=num;
-  scoreText.innerText = score;
 };

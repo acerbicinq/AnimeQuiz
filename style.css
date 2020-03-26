@@ -9,6 +9,7 @@
   margin: 0;
   padding: 0;
   color: #303030;
+  text-align: center;
 }
 
 h1, h2, h3, h4 {
@@ -125,4 +126,5 @@ img {
 }
 p {
   font-size: 1.7rem;
+  
 }
