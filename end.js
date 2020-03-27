@@ -8,7 +8,7 @@ const results = JSON.parse(localStorage.getItem("results")) || [];
 
 
 const MAX_DISPLAY_RESULTS = 5;
-
+//End Page Content Population
 finalScore.innerHTML = mostRecentScore;
   if (mostRecentScore <= 400 && mostRecentScore > 310) {
     finalScore.innerHTML = 'Watch Spirited Away!';
@@ -29,23 +29,21 @@ finalScore.innerHTML = mostRecentScore;
     finalScore.innerHTML = 'Watch Attack on Titan!';
     img.src = './img/titans.jpg';
     img.alt = 'Several scouts in brown uniforms charge forward with blades at the ready. They seem to enter a battle for survival.'
-    summary.innerHTML = 'Attack on Titans is a thrilling, and terrifying, 4-season series where regular people face against deadly giants called titans. The world is brutal, but in the midst of the turmoil, we find friendship, passion, and great sacrifice. <br><br> This is just the beginning into the world of anime. Based on your result, I have curated 5 other recommendations for you and compiled it all into one list. <br>Download the watchlist below!';
+    summary.innerHTML = 'Attack on Titan is a thrilling and terrifying, 4-season series where regular people face against deadly giants called titans. The world is brutal, but in the midst of the turmoil, we find friendship, passion, and great sacrifice. <br><br> This is just the beginning into the world of anime. Based on your result, I have curated 5 other recommendations for you and compiled it all into one list. <br>Download the watchlist below!';
   } else {
     finalScore.innerText = 'Yup. You definitely cheated, my friend.';
     console.log("nope.");
   };
 
-
+//username form for PDF download
 username.addEventListener('keyup', () => {
   saveScoreBtn.disabled = !username.value;
 });
 
 saveResult = e => {
-  console.log('I clicked save!');
   e.preventDefault();
 
 let score = {
-  //score: Math.floor(Math.random() * 100),
   result: finalScore.innerText,
   name: username.value
 };
