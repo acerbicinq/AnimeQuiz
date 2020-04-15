@@ -113,12 +113,8 @@ form {
   align-items: center;
 }
 
-input {
-  margin-top: 3rem;
-  margin-bottom: 1rem;
-  width: 20rem;
-  padding: 1.5rem;
-  font-size: 1.8rem;
+#saveScoreBtn {
+  margin-top: 2.5rem;
 }
 
 /* Images */

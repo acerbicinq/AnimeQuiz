@@ -36,16 +36,15 @@ finalScore.innerHTML = mostRecentScore;
   };
 
 //username form for PDF download
-username.addEventListener('keyup', () => {
-  saveScoreBtn.disabled = !username.value;
+saveScoreBtn.addEventListener('onclick', () => {
+  saveResult();
 });
 
 saveResult = e => {
   e.preventDefault();
 
 let score = {
-  result: finalScore.innerText,
-  name: username.value
+  result: finalScore.innerText
 };
 
 results.push(score);
@@ -57,7 +56,7 @@ if (mostRecentScore <= 400 && mostRecentScore > 310) {
 } else if (mostRecentScore <= 310 && mostRecentScore > 260) {
   window.location = "./pdf/Avatar.pdf";
 } else if (mostRecentScore <= 260 && mostRecentScore > 190) {
-  window.location = './pdf/DeathNote.pdf';
+  window.open('./pdf/DeathNote.pdf', '_blank');
 } else if (mostRecentScore <= 190) {
   window.location = './pdf/AttackOnTitan.pdf'
 } else {
